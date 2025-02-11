@@ -17,5 +17,5 @@ En el caso de uso de persistencia para el Login, ¿que estrategia sugieren?.
 - Usaría un servicio de auth con token como por ejemplo cognito para persistir datos de sesión, con vencimiento. Pero lo haría desde el backend, creo que sería lo ideal.
 
 Si la tendríamos que convertir a Inglés y conservar el Español, qué estrategia utilizaría para extenderla. Y si necesitamos agregar otros idiomas?
--Lo haría mediante carga de archivos xml y así podríamos ir agregando idiomas mientras los necesitemos.
+- Lo haría mediante carga de archivos xml y así podríamos ir agregando idiomas mientras los necesitemos.
 
