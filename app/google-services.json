@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186269272684",
+    "project_id": "sur-wallet",
+    "storage_bucket": "sur-wallet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186269272684:android:ab70d478844acb311f6649",
+        "android_client_info": {
+          "package_name": "com.sur_wallet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGznfbLm49nEvyux9h84uEECnDI3iXJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
