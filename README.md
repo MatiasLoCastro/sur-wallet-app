@@ -5,7 +5,7 @@ A simple Kotlin-based Android application that simulates a virtual wallet. Built
 
 ---
 
-## 🚀 Features
+## Features
 
 - 👤 User Profile (name, preferences, light/dark mode)
 - 💳 Card Management (add, view, remove cards)
@@ -16,7 +16,7 @@ A simple Kotlin-based Android application that simulates a virtual wallet. Built
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Kotlin**
 - **Jetpack Compose**
